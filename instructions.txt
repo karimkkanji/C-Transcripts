@@ -1,0 +1,15 @@
+Student file keeps the information about students such as the student number, name, surname and department in abbreviated form.
+
+Course file keeps the information about courses such as the course code and course title.
+
+Criteria file keeps the information about course assessments such as the course code, course credit value, homework, lab,
+quiz, midterm and final percentages.
+
+Registration file keeps the information about the student's registrations such as the student number, academic year, semester,
+and course code a
+
+Performance file keeps the information about the student's performances such as the student number, course code and performances.
+
+194162 VIANNEY DUSHIME ECE
+student studentname surname department name
+no
